@@ -58,6 +58,7 @@ Step 7: Finalize and Export
 
 
 # Output
-
+ Based on speed, accuracy, completeness, and ease of understanding, ChatGPT performed slightly better for academic assignments, while Google Gemini is more suitable for advanced technical learning and research.
+<img width="537" height="257" alt="image" src="https://github.com/user-attachments/assets/da56bd54-955f-47d5-ae15-9043682edc5e" />
 
 # Result
